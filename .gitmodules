@@ -4,3 +4,6 @@
 [submodule "luci-app-bandwidthd"]
 	path = luci-app-bandwidthd
 	url = https://github.com/AlexZhuo/luci-app-bandwidthd
+[submodule "luci-app-netspeedtest"]
+	path = luci-app-netspeedtest
+	url = https://github.com/muink/luci-app-netspeedtest
