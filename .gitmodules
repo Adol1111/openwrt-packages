@@ -1,0 +1,6 @@
+[submodule "luci-app-poweroff"]
+	path = luci-app-poweroff
+	url = https://github.com/esirplayground/luci-app-poweroff
+[submodule "luci-app-bandwidthd"]
+	path = luci-app-bandwidthd
+	url = https://github.com/AlexZhuo/luci-app-bandwidthd
