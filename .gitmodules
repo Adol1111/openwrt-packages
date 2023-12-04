@@ -7,3 +7,6 @@
 [submodule "luci-app-netspeedtest"]
 	path = luci-app-netspeedtest
 	url = https://github.com/muink/luci-app-netspeedtest
+[submodule "speedtest-go"]
+	path = speedtest-go
+	url = https://github.com/librespeed/speedtest-go
