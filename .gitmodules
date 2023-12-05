@@ -4,9 +4,3 @@
 [submodule "luci-app-bandwidthd"]
 	path = luci-app-bandwidthd
 	url = https://github.com/AlexZhuo/luci-app-bandwidthd
-[submodule "luci-app-netspeedtest"]
-	path = luci-app-netspeedtest
-	url = https://github.com/muink/luci-app-netspeedtest
-[submodule "speedtest-go"]
-	path = speedtest-go
-	url = https://github.com/librespeed/speedtest-go
